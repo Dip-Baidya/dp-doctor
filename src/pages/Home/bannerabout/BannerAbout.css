@@ -1,0 +1,38 @@
+.text{
+    margin-top:-15px;
+}
+.image-about-banner{
+    height:550px;
+    width:100%;
+}
+.textRight{
+    width:70%;
+    text-align: start;
+    margin-left:130px;
+    margin-top:100px;
+}
+.readMore-btn{
+    background-color: #2CAEE2;
+    border: 1px solid #2CAEE2 ;
+    border-radius:15px;
+    padding-left:12px;
+    padding-right:12px;
+    margin-left:130px;
+    color:white;
+    
+   }
+.videoHeader{
+    margin-top:-70px;
+    text-align: center;
+}
+.rightCol{
+    background-image:url("../../../Images/Background/Vector4.png");
+    background-repeat: no-repeat;
+    height:501px;
+    width:100%;
+}
+.imageCall{
+    margin-top:60px;
+    margin-left: -40px;
+    height:409px;
+}

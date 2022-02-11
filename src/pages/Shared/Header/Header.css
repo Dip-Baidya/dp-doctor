@@ -1,0 +1,16 @@
+.nav-drop{
+    margin-left:110px;
+    padding-left:20px;
+}
+.btn-login{
+ background-color: #2CAEE2;
+ border: 1px solid #2CAEE2 ;
+ border-radius:15px;
+ padding-left:10px;
+ padding-right:10px;
+ color:white;
+ 
+}
+.image{
+    margin-left: 30px;
+}

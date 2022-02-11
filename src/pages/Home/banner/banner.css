@@ -1,0 +1,23 @@
+.left-col{
+    background-image:url("../../../Images/Background/Vector2.png");
+    background-repeat: no-repeat;
+  height:375px;
+}
+.right-col{
+    background-image:url("../../../Images/Background/Vector1.png");
+    background-repeat: no-repeat;
+    height:595px;
+}
+.image-banner{
+    height:401px;
+    width:60%;
+    margin-left: 180px;
+    margin-top:70px;
+}
+.left-details{
+    margin-left:210px;
+    padding-top:150px;
+}
+.play-img{
+    margin-left: 10px;
+}
