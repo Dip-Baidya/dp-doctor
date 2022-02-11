@@ -26,7 +26,7 @@ const BannerAbout = () => {
           <h2 className="videoHeader">Video Consultation from the Best doctors </h2>
           <p className="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting </p>
             <p className="text-center text">industry. Lorem Ipsum has been the industry's standard</p>
-            <section className="mt-3">
+            <div className="mt-3">
           <Row xs="1" md="2">
                 <Col md="7">
                 <div className="">
@@ -40,7 +40,7 @@ const BannerAbout = () => {
                    </div>
                 </Col>
             </Row>
-          </section>
+          </div>
         </Container>
     );
 };

@@ -1,0 +1,26 @@
+.Col-right{
+    background-image:url("../../../Images/Background/Vector5.png");
+    background-repeat: no-repeat;
+    height:501px;
+    width:100%;
+}
+.imagePhone{
+    margin-left:170px;
+    margin-top: -30px;
+}
+.doctors-right{
+    margin-left:50px;
+    margin-top: 40px;
+}
+.img-number{
+    height:30px;
+}
+.doctor-text{
+margin-left:15px;
+font-weight: 700;
+}
+.doctorPara{
+    margin-left:15px;
+    width:60%;
+    margin-top:-10px;
+}

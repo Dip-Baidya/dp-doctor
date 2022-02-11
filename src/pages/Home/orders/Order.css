@@ -1,0 +1,20 @@
+.location-paragraph{
+    display: flex;
+}
+.location-icon{
+    height:25px;
+
+}
+.order-section{
+    width:95%;
+}
+.order-card{
+    border:1px solid gainsboro;  
+}
+.order-para{
+    margin-left:15px;
+    width:70%;
+}
+.title{
+    color: #2CAEE2 ;
+}
