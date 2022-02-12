@@ -6,8 +6,9 @@
     height:48px;
     width:30px;
 }
+
 @media screen and (max-width: 640px) {
    .arrow-section{
-       margin-left: -100px;
+       display:none;
    }
   }

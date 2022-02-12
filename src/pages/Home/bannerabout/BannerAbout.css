@@ -42,7 +42,7 @@
 @media screen and (max-width: 640px) {
     .image-about-banner{
         height:550px;
-        width:94%;
+        width: 100%;
     }
     .textRight{
         width:70%;

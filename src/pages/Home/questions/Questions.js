@@ -20,7 +20,7 @@ const Questions = () => {
                         </div>
                     </Col>
                     <Col md="7">
-                        <div className="accordian-section w-75 mx-auto mt-5">
+                        <div className=" w-75 mx-auto mt-5">
                             <Accordion defaultActiveKey="0" className="accordian-section">
                                 <Accordion.Item eventKey="0">
                                     <Accordion.Header>What is TM?</Accordion.Header>
@@ -83,7 +83,10 @@ const Questions = () => {
                                     </Accordion.Body>
                                 </Accordion.Item>
                             </Accordion>
-                           <button className="ask-btn">View all FAQs</button>
+                           
+                        </div>
+                        <div className="accordianSection w-75 mx-auto mt-5">
+                        <button className="ask-btn">View all FAQs</button>
                         </div>
                     </Col>
                 </Row>

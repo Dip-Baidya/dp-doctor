@@ -18,7 +18,7 @@ import img3 from '../../../Images/Image Resources/apple 1.png'
 
 const Footer = () => {
     return (
-        <Container fluid className="mt-5 pt-5">
+        <Container fluid className="footer mt-5 pt-5">
             <div className="w-75 mx-auto">
                 <Row xs="1" md="2">
                     <Col md="7">
