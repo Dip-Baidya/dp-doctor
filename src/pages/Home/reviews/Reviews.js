@@ -55,7 +55,7 @@ const Reviews = () => {
                                 <Row>
                                     <Col></Col>
                                     <Col>
-                                        <div className=" w-75 mx-auto d-flex justify-content-between">
+                                        <div className="arrow-section w-75 mx-auto d-flex justify-content-between">
                                             <img src={arrow} alt="" />
                                             <img src={arrow2} alt="" />
                                         </div>

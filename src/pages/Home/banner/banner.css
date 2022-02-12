@@ -21,7 +21,7 @@
 .play-img{
     margin-left: 10px;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 640px) {
     .right-col{
         background-image:url("../../../Images/Background/Vector1.png");
         background-repeat: no-repeat;

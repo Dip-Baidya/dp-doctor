@@ -24,7 +24,7 @@ font-weight: 700;
     width:60%;
     margin-top:-10px;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
     .Col-right{
         background-image:url("../../../Images/Background/Vector5.png");
         background-repeat: no-repeat;

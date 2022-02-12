@@ -46,7 +46,18 @@ font-size: 14px;
         color:#2CAEE2;
         font-weight: 500;
         font-size: 12px;
+    }
+    .download-title{
+        color:#333333;
+        font-weight: 700;
+        font-size: 14px;
         
     }
-    
+    .footerImg{
+        margin-left:-30px;
+        width:90px;
+    }
+    .footer-app-section{
+        margin-left:-20px;
+    }
   }

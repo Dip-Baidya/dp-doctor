@@ -29,7 +29,7 @@
  margin-top:50px;
  margin-left: 70px;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
     .order-card{
         border:1px solid gainsboro; 
         width:93%; 

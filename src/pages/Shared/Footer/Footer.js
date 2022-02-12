@@ -117,10 +117,10 @@ const Footer = () => {
                                     </div>
                                 </Col>
                             </Row>
-                            <div className=" d-flex mt-3">
+                            <div className=" footer-app-section d-flex mt-3">
                                 <p className="download-title">Download Our App</p>
-                                <img src={img2} className="ms-1" alt="" />
-                                <img src={img3} alt="" className="ms-1" />
+                                <img src={img2} className="ms-1 footerImg ing-fluid" alt="" />
+                                <img src={img3} alt="" className="ms-1 footerImg img-fluid" />
                             </div>
                         </div>
                     </Col>

@@ -15,8 +15,18 @@
  color:white;
  font-size:12px;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
    .accordian-section{
        margin-left: -30px;
    }
+   .ask-btn{
+    background-color: #2CAEE2;
+ border: 1px solid #2CAEE2 ;
+ border-radius:10px;
+ padding-left:15px;
+ padding-right:15px;
+ margin-top: 25px;
+ color:white;
+ font-size:12px;
+}
   }
