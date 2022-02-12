@@ -15,3 +15,8 @@
  color:white;
  font-size:12px;
 }
+@media screen and (max-width: 600px) {
+   .accordian-section{
+       margin-left: -30px;
+   }
+  }

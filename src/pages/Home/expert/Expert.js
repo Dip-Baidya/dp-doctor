@@ -5,13 +5,16 @@ import arrow from '../../../Images/ICONS Logos/ic_round-keyboard-double-arrow-ri
 
 const Expert = () => {
     return (
-        <Container  className="mt-5">
-            <h2 className="text-center">Expert & Varified Doctors</h2>
-            <p className="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting </p>
-            <p className="text-center text">industry. Lorem Ipsum has been the industry's standard</p>
-            <div>
-                <Row xs="1" md="4">
-                    <Col>
+        <Container className="mt-5">
+
+            <div className="about-top w-75 mx-auto">
+                <h2 className="text-center">Expert & Varified Doctors</h2>
+                <p className="about-text w-50 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+            </div>
+
+            <div className="expertDoctor-section">
+                <Row xs="2" md="4">
+                    <Col className="mt-3">
                         <div className=" mt-5 ">
                             <div className="d-flex">
                                 <img src={arrow} alt="" className="img-number" />
@@ -45,7 +48,7 @@ const Expert = () => {
                             </div>
                         </div>
                     </Col>
-                    <Col>
+                    <Col className="mt-3">
                         <div className=" mt-5 ">
                             <div className="d-flex">
                                 <img src={arrow} alt="" className="img-number" />
@@ -79,7 +82,7 @@ const Expert = () => {
                             </div>
                         </div>
                     </Col>
-                    <Col>
+                    <Col className="mt-3">
                         <div className=" mt-5 ">
                             <div className="d-flex">
                                 <img src={arrow} alt="" className="img-number" />
@@ -113,7 +116,7 @@ const Expert = () => {
                             </div>
                         </div>
                     </Col>
-                    <Col>
+                    <Col className="mt-3">
                         <div className=" mt-5 ">
                             <div className="d-flex">
                                 <img src={arrow} alt="" className="img-number" />

@@ -10,7 +10,7 @@ const Banner = () => {
     return (
         <Container fluid>
             <Row xs="1" md="2">
-                <Col md="6">
+                <Col md="6" className="mt-3">
                     <div className="left-col">
                         <div className="left-details">
                         <h2>Protect  and Take</h2>
@@ -25,7 +25,7 @@ const Banner = () => {
                         </div>
                     </div>
                 </Col>
-                <Col md="6">
+                <Col md="6" className="mt-3">
                     <div className="right-col">
                         <img src={img} className="image-banner" alt="" />
                     </div>

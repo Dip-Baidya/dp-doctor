@@ -7,9 +7,11 @@ import arrow from '../../../Images/ICONS Logos/ic_round-keyboard-double-arrow-ri
 const Service = () => {
     return (
         <Container fluid className="mt-5">
+            <div className="about-top w-75 mx-auto">
             <h2 className="text-center">Our Service</h2>
-            <p className="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting </p>
-            <p className="text-center text">industry. Lorem Ipsum has been the industry's standard</p>
+                <p className="about-text w-50 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+            </div>
+            
             <div className="mt-5">
                 <Row xs="1" md="2">
                     <Col md="5">

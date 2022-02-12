@@ -1,3 +1,6 @@
+.header-section{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
 .nav-drop{
     margin-left:110px;
     padding-left:20px;
@@ -9,8 +12,13 @@
  padding-left:10px;
  padding-right:10px;
  color:white;
- 
 }
 .image{
     margin-left: 30px;
 }
+@media screen and (max-width: 600px) {
+    .nav-drop{
+        margin-left:0px;
+        padding-left:0px;
+    }
+  }

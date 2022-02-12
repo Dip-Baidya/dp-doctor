@@ -11,13 +11,17 @@ import arrow2 from '../../../Images/ICONS Logos/arrow.png'
 const Blog = () => {
     return (
         <Container fluid className="mt-5">
-            <h2 className="text-center">What Are The Patients
-                Saying About us</h2>
-            <p className="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting </p>
-            <p className="text-center text">industry. Lorem Ipsum has been the industry's standard</p>
+
+            <div className="about-top w-75 mx-auto">
+                <h2 className="text-center">What Are The Patients
+                    Saying About us</h2>
+                <p className="about-text w-50 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+            </div>
+
+
             <div className="w-75 mx-auto mt-5">
                 <Row xs="1" md="4">
-                    <Col>
+                    <Col className="mt-3">
                         <div>
                             <img src={img} alt="" className="blog-img img-fluid" />
                             <p className="date-text">November 5, 2021</p>
@@ -30,7 +34,7 @@ const Blog = () => {
 
                         </div>
                     </Col>
-                    <Col>
+                    <Col className="mt-3">
                         <div>
                             <img src={img2} alt="" className="blog-img img-fluid" />
                             <p className="date-text">November 5, 2021</p>
@@ -43,7 +47,7 @@ const Blog = () => {
 
                         </div>
                     </Col>
-                    <Col>
+                    <Col className="mt-3">
                         <div>
                             <img src={img3} alt="" className="blog-img img-fluid" />
                             <p className="date-text">November 5, 2021</p>
@@ -54,8 +58,9 @@ const Blog = () => {
                                 <button className="read-btn">Read More</button>
                             </div>
 
-                        </div></Col>
-                    <Col>
+                        </div>
+                    </Col>
+                    <Col className="mt-3">
                         <div>
                             <img src={img4} alt="" className="blog-img img-fluid" />
                             <p className="date-text">November 5, 2021</p>

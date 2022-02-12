@@ -4,3 +4,12 @@
 .doctors-col{
     margin-top:-18px;
 }
+@media screen and (max-width: 600px) {
+    .img-icon{
+        margin-left:200px;
+    }
+    .services-text{
+       margin-left:-7px;
+       width:95%;
+    }
+  }

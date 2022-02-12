@@ -21,3 +21,22 @@
 .play-img{
     margin-left: 10px;
 }
+@media only screen and (max-width: 600px) {
+    .right-col{
+        background-image:url("../../../Images/Background/Vector1.png");
+        background-repeat: no-repeat;
+        height:595px;
+        margin-top: 20px;;
+        width:92%;
+    }
+    .left-details{
+        margin-left:10px;
+        padding-top:150px;
+    }
+    .image-banner{
+        height:301px;
+        width:60%;
+        margin-left: 120px;
+        margin-top:100px;
+    }
+  }

@@ -6,9 +6,11 @@ import img from '../../../Images/Image Resources/akar-icons_chat-question.png'
 const Questions = () => {
     return (
         <Container fluid className="mt-5">
+           
+            <div className="about-top w-75 mx-auto">
             <h2 className="text-center">Frequently Asked Questions </h2>
-            <p className="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting </p>
-            <p className="text-center text">industry. Lorem Ipsum has been the industry's standard</p>
+                <p className="about-text w-50 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+            </div>
 
             <div className="mt-5 pt-5">
                 <Row xs="1" md="2">
@@ -18,8 +20,8 @@ const Questions = () => {
                         </div>
                     </Col>
                     <Col md="7">
-                        <div className="w-75 mx-auto mt-5">
-                            <Accordion defaultActiveKey="0">
+                        <div className="accordian-section w-75 mx-auto mt-5">
+                            <Accordion defaultActiveKey="0" className="accordian-section">
                                 <Accordion.Item eventKey="0">
                                     <Accordion.Header>What is TM?</Accordion.Header>
                                     <Accordion.Body>

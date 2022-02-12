@@ -1,5 +1,8 @@
-.text{
-    margin-top:-15px;
+.about-top{
+    
+}
+.about-text{
+    text-align: center;
 }
 .image-about-banner{
     height:550px;
@@ -36,3 +39,33 @@
     margin-left: -40px;
     height:409px;
 }
+@media screen and (max-width: 600px) {
+    .image-about-banner{
+        height:550px;
+        width:94%;
+    }
+    .textRight{
+        width:70%;
+        text-align: start;
+        margin-left:50px;
+        margin-top:100px;
+        
+    }
+    .videoHeader{
+        margin-top:20px;
+        text-align: start;
+        width:100%;
+    }
+    .rightCol{
+        background-image:url("../../../Images/Background/Vector4.png");
+        background-repeat: no-repeat;
+        height:501px;
+        width:93%;
+    }
+    .imageCall{
+        margin-top:110px;
+        margin-left:1px;
+        height:409px;
+    }
+  }
+  

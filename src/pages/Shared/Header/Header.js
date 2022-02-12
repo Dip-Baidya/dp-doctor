@@ -6,7 +6,7 @@ import img from '../../../Images/ICONS Logos/l.png'
 const Header = () => {
 
     return (
-        <Container fluid>
+        <Container fluid className="header-section">
             <Navbar bg="white" expand="lg">
                 <Container fluid>
                     <Navbar.Brand href="#home">

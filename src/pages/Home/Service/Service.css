@@ -2,5 +2,16 @@
     width:70%;
     text-align: start;
     margin-left:130px;
-    
 }
+@media screen and (max-width: 600px) {
+    .imagePhone{
+        width:90%;
+        margin-left:-1px;
+    }
+    .service-para{
+        width:70%;
+        text-align: center;
+        margin-left:50px;
+        margin-top: 10px;
+    }
+  }

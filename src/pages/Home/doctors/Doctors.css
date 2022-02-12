@@ -19,8 +19,25 @@
 margin-left:15px;
 font-weight: 700;
 }
-.doctorPara{
+.doctor-Para{
     margin-left:15px;
     width:60%;
     margin-top:-10px;
 }
+@media screen and (max-width: 600px) {
+    .Col-right{
+        background-image:url("../../../Images/Background/Vector5.png");
+        background-repeat: no-repeat;
+        height:501px;
+        width:93%;
+    }
+    .imagePhone{
+        height:530px;
+        
+        
+    }
+    .doctors-right{
+        margin-left:15px;
+        margin-top: 40px;
+    }
+  }
