@@ -27,19 +27,19 @@ const BannerAbout = () => {
           <p className="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting </p>
             <p className="text-center text">industry. Lorem Ipsum has been the industry's standard</p>
             <div className="mt-3">
-          <Row xs="1" md="2">
-                <Col md="7">
-                <div className="">
-                        <p className="textRight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                        <button className="readMore-btn">Read more</button>
-                    </div>
-                </Col>
-                <Col md="5">
-                   <div className="rightCol">
-   <img src={img2}className="imageCall" alt="" />
-                   </div>
-                </Col>
-            </Row>
+                <Row xs="1" md="2">
+                    <Col md="7">
+                        <div className="">
+                            <p className="textRight">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                            <button className="readMore-btn">Read more</button>
+                        </div>
+                    </Col>
+                    <Col md="5">
+                        <div className="rightCol">
+                            <img src={img2} className="imageCall" alt="" />
+                        </div>
+                    </Col>
+                </Row>
           </div>
         </Container>
     );

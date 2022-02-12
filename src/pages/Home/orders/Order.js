@@ -5,7 +5,7 @@ import location from '../../../Images/ICONS Logos/Group13.png'
 
 const Order = () => {
     return (
-        <Container fluid className="mt-5">
+        <Container  className="mt-5">
             <h2 className="text-center">Order Medicine Online from Popular Pharmacy Nearby</h2>
             <p className="text-center">Lorem Ipsum is simply dummy text of the printing and typesetting </p>
             <p className="text-center text">industry. Lorem Ipsum has been the industry's standard</p>

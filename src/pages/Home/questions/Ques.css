@@ -1,0 +1,17 @@
+.quesCol-Right{
+    background-image:url("../../../Images/Background/Vector7.png");
+    background-repeat: no-repeat;
+    height:501px;
+    width:100%;
+}
+.ask-btn{
+    background-color: #2CAEE2;
+ border: 1px solid #2CAEE2 ;
+ border-radius:10px;
+ padding-left:15px;
+ padding-right:15px;
+ margin-top: 25px;
+ margin-left: 450px;
+ color:white;
+ font-size:12px;
+}
