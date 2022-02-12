@@ -1,0 +1,36 @@
+.footer-icon{
+    height:18px;
+    width:14px;
+}
+.footer-text{
+    font-size:14px;
+    margin-left: 10px;
+}
+.footer-para{
+    font-size:14px;
+    width:50%;
+    margin-top: 10px; 
+}
+.contactTitle{
+    color:#333333;
+    font-weight: 500;
+font-size: 18px;
+}
+.footerRight-col{
+    background-image:url("../../../Images/Background/Vector9.png");
+    background-repeat: no-repeat;
+    height:600px;
+    width:100%;
+}
+.download-title{
+    color:#333333;
+    font-weight: 700;
+    font-size: 14px;
+}
+.copyTitle{
+    margin-top:-300px;
+    margin-left:300px;
+    color:#2CAEE2;
+    font-weight: 500;
+font-size: 14px;
+}
