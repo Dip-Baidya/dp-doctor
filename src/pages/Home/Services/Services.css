@@ -4,7 +4,7 @@
 .doctors-col{
     margin-top:-18px;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 640px) {
     .img-icon{
         margin-left:200px;
     }
