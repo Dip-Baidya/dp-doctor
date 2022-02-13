@@ -17,7 +17,7 @@ const Reviews = () => {
                 <div className="about-top w-75 mx-auto">
                     <h2 className="text-center">What Are The Patients
                         Saying About us</h2>
-                    <p className="about-text w-50 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                    <p className="review-text ">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
                 </div>
 
                 <div className="w-75 mx-auto mt-5 pt-5">

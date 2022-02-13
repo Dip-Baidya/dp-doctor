@@ -55,7 +55,7 @@ const Order = () => {
                     </Col>
 
                 </Row>
-                <div className="w-25 mx-auto  ">
+                <div className=" viewbtn-section w-25 mx-auto  ">
                     <button className="view-all-btn">View All</button>
                 </div>
             </div>

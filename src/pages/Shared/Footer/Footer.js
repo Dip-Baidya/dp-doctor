@@ -18,10 +18,10 @@ import img3 from '../../../Images/Image Resources/apple 1.png'
 
 const Footer = () => {
     return (
-        <Container fluid className="footer mt-5 pt-5">
-            <div className="w-75 mx-auto">
-                <Row xs="1" md="2">
-                    <Col md="7">
+        <Container fluid className=" mt-5 pt-5">
+            <div className=" w-75 mx-auto">
+                <Row xs="1" md="2"className="footer" >
+                    <Col md="7" >
                         <Row xs="2" md="2">
                             <Col md="8">
                                 <div >
@@ -79,7 +79,7 @@ const Footer = () => {
                             </Col>
                         </Row>
                     </Col>
-                    <Col md="5">
+                    <Col md="5"  className="footer">
                         <div className="footerRight-col">
                             <Row xs="2" md="2">
                                 <Col md="6">
@@ -126,9 +126,10 @@ const Footer = () => {
                     </Col>
 
                 </Row>
-                <p className="copyTitle">&#169; Copyright TM 2021. All rights reserved. Created by Golden Infotech.</p>
+                {/* <p className="copyTitle">&#169; Copyright TM 2021. All rights reserved. Created by Golden Infotech.</p>  */}
             </div>
 
+      
         </Container>
     );
 };

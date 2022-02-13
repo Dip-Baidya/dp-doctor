@@ -1,5 +1,16 @@
+.expert-text{
+    text-align: center;
+    width: 50%;
+    margin-left:210px;
+}
+
 @media screen and (max-width: 640px) {
     .expertDoctor-section{
         width:90%;
+    }
+    .expert-text{
+        text-align:center;
+        width: 100%;
+        margin-left:0px;
     }
   }

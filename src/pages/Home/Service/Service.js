@@ -9,7 +9,7 @@ const Service = () => {
         <Container fluid className="mt-5">
             <div className="about-top w-75 mx-auto">
             <h2 className="text-center">Our Service</h2>
-                <p className="about-text w-50 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                <p className="about-text ">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
             </div>
             
             <div className="mt-5">

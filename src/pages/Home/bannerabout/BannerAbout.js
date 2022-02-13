@@ -9,7 +9,7 @@ const BannerAbout = () => {
         <Container fluid className="mt-5">
             <div className="about-top w-75 mx-auto">
                 <h2 className="text-center">About Us</h2>
-                <p className="about-text w-50 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                <p className="about-text ">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
             </div>
             <div >
                 <Row xs="1" md="2">
@@ -26,9 +26,9 @@ const BannerAbout = () => {
             </div>
            
             
-            <div className="w-50 mx-auto">
+            <div className="video-section">
             <h2 className="videoHeader">Video Consultation from the Best doctors </h2>
-                <p className="text-center w-75 mx-auto">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
+                <p className="video-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard</p>
             </div>
 
 

@@ -1,5 +1,8 @@
 .img-icon{
-    margin-left:135px;
+    margin-left:120px;
+}
+.doc-icon{
+    margin-left:120px;
 }
 .doctors-col{
     margin-top:-18px;
@@ -11,5 +14,8 @@
     .services-text{
        margin-left:-7px;
        width:95%;
+    }
+    .doc-icon{
+        margin-left:190px;
     }
   }

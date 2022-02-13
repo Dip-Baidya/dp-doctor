@@ -28,11 +28,15 @@
  color:white;
  margin-top:50px;
  margin-left: 70px;
+ width:100%;
 }
 @media screen and (max-width: 640px) {
     .order-card{
         border:1px solid gainsboro; 
         width:93%; 
+    }
+    .viewbtn-section{
+        width:50%;
     }
     .view-all-btn{
      background-color: #2CAEE2;
@@ -43,6 +47,7 @@
      color:white;
      margin-top:50px;
      margin-left: 10px;
+     width:100%;
    
     }
   }
